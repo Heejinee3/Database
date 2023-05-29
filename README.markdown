@@ -14,4 +14,4 @@ The objective of these labs is to gain a comprehensive understanding of database
 
 ---
 
-MySql, Ubuntu, Google Cloud SQL, Python, Google Cloud App Engine, Flask, SQLAlchemy,
+MySql, Ubuntu, Google Cloud SQL, Python, Google Cloud App Engine, Flask, SQLAlchemy
