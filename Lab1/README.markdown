@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 0 # lab number
-permalink: /lab/Database/Lab1 # link
-category: lab # project or lab
----
+### **Lab1**
+
+<br>
 
 #### **Database**
 
@@ -71,11 +68,3 @@ link: [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
    category and in the stores of the country. The income means the sum of amount values in
    the payment tuples. There exists a single top actor for each combination of country and
    category.
-
-<br>
-
-#### **Code and Results**
-
----
-
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab1)

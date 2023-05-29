@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 1 # lab number
-permalink: /lab/Database/Lab2 # link
-category: lab # project or lab
----
+### **Lab2**
+
+<br>
 
 #### **Development Environment**
 
@@ -95,11 +92,3 @@ This is a guide for you to get started with Google Cloud SQL. Cloud SQL is a ful
       - If 70 ≤ mark < 80, then lettergrade = “C”
       - If 60 ≤ mark < 70, then lettergrade = “D”
       - If mark < 60, then lettergrade = “F”
-
-<br>
-
-#### **Report and Results**
-
----
-
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab2)

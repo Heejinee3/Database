@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 4 # lab number
-permalink: /lab/Database/Lab5 # link
-category: lab # project or lab
----
+### **Lab5**
+
+<br>
 
 #### **Instruction**
 
@@ -36,13 +33,3 @@ application), and SQLAlchemy (for communicating with the database).
 Task 2 and 3 are open-ended, and you may use any database and UI designs you
 want for the implementation. Also for simplicity, you may assume that you are the
 only user of the system.
-
-<br>
-
-#### **Code and Report**
-
----
-
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab5)
-
-<br>

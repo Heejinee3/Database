@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 2 # lab number
-permalink: /lab/Database/Lab3 # link
-category: lab # project or lab
----
+### **Lab3**
+
+<br>
 
 #### **Database**
 
@@ -119,11 +116,3 @@ Notes
     account is greater than $5,500. Order by account type, then account number and
     finally transaction number. Note that all transactions of qualifying accounts should
     be returned even if they are less than the average amount of the account type.
-
-<br>
-
-#### **Report and Results**
-
----
-
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab3)

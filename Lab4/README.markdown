@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 3 # lab number
-permalink: /lab/Database/Lab4 # link
-category: lab # project or lab
----
+### **Lab4**
+
+<br>
 
 #### **Relational Algebra**
 
@@ -120,14 +117,6 @@ anomalies? Briefly explain with examples.
 [Task 4] Normalize the table to remove redundant information and prevent
 anomalies. Write down the resulting schema and briefly explain whether the
 schema is in 3NF, BCNF, and/or 4NF.
-
-<br>
-
-#### **Report**
-
----
-
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab4)
 
 <br>
 

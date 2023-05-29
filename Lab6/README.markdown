@@ -1,9 +1,6 @@
----
-index: 4 # labs number
-num: 5 # lab number
-permalink: /lab/Database/Lab6 # link
-category: lab # project or lab
----
+### **Lab6**
+
+<br>
 
 #### **Hardware**
 
@@ -214,10 +211,16 @@ We assume that, whatever consistency constraints there are on the database, thes
 
 <br>
 
-#### **Report**
+#### **Glossary**
 
 ---
 
-[Github](https://github.com/Heejinee3/Database/tree/master/Lab6)
+[B+ Tree](https://velog.io/@chunjakim/B-Tree)
 
-<br>
+[Extensible Hashing](https://velog.io/@chunjakim/Extensible-Hashing)
+
+[Query Processing](https://velog.io/@chunjakim/Query-Processing)
+
+[Crash Recovery](https://velog.io/@chunjakim/Crash-Recovery)
+
+[Concurrency Control](https://velog.io/@chunjakim/Concurrency-Control)
