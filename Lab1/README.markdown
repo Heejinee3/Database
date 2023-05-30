@@ -11,7 +11,7 @@ The figure below shows the schema of the Sakila database. This database has 23 t
 use only normaltables. You can find the information related to the schema in the following
 link: [Sakila](https://dev.mysql.com/doc/sakila/en/sakila-structure.html)
 
-![Figure1](/assets/lab/Database/Figure1.png)
+![Figure1](heejinee3.github.io/assets/lab/Database/Figure1.png)
 
 <br>
 
