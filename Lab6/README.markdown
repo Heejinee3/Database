@@ -76,6 +76,7 @@ Answer the following:
 
 Consider an extensible hash structure where buckets can hold up to three records. Initially the structure is empty. The hashed key values are as follows (in binary):
 
+||
 | ------------------- |
 | h(Ashley) = [00010] |
 | h(Brian) = [00101] |
